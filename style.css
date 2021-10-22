@@ -1,0 +1,15 @@
+#logo {
+    width: 150px;
+    height: 150px;
+}
+
+.login {
+    background-color: rgba(10, 145, 55, 0.5);
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(126, 172, 110);
+}
